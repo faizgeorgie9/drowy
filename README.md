@@ -40,5 +40,5 @@ Due to file size limitations, **trained models and application output results ar
 They are stored externally in Google Drive.
 
 ## Model and Application Results
-The trained models and application results can be accessed via the following link for each folder on repository
+The trained models and application results can be accessed through the provided Google Drive links for each corresponding folder in the repository.
 
