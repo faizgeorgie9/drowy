@@ -1,2 +1,2 @@
-The size of app more than 100 Mb, so i put this app on the drive : 
+Due to file size limitations (over 100 MB), the application files and trained model files are not stored directly in this repository and are instead hosted on Google Drive :
 https://drive.google.com/file/d/1GZQj_ukiqVM88SGdOHMMg19N636w3poa/view?usp=sharing
