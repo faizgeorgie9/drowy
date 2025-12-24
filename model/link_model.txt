@@ -1,0 +1,2 @@
+Due to file size limitations (over 100 MB), the trained model files are not stored directly in this repository and are instead hosted on Google Drive :
+https://drive.google.com/drive/folders/1rdEor49HzCtblnBuIyty5A-ysf-bweJD?usp=sharing
